@@ -4,21 +4,9 @@ This is a Performance test to showcase the difference between Plan Python 3.6.4,
 
 #### Results:
 
-* Python 3.6.4 with Numba Duration: 0.10754990577697754 seconds
-
-* Plain Python 3.6.4 Duration: 9.799003601074219e-05 seconds
-
-* PyPy3 Duration: 0.000247955322265625 seconds
-
 ![Benchmark Chart One](blob/images/one.png)
 
 ##### Mandelbrot
-
-* Plain Python 3.6.4 Duration: 4.013276815414429 seconds
-
-* Python with Numba Duration: 0.3357357978820801 seconds
-
-* PyPy3 Duration: 2.660169839859009 seconds
 
 ![Benchmark Chart Two](blob/images/two.png)
 
