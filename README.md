@@ -10,7 +10,7 @@ This is a Performance test to showcase the difference between Plan Python 3.6.4,
 
 * PyPy3 Duration: 0.000247955322265625 seconds
 
-![Benchmark Chart](../images/one.png)
+![Benchmark Chart](../blob/images/one.png)
 
 ##### Mandelbrot
 
@@ -20,7 +20,7 @@ This is a Performance test to showcase the difference between Plan Python 3.6.4,
 
 * PyPy3 Duration: 2.660169839859009 seconds
 
-![Benchmark Chart](../images/two.png)
+![Benchmark Chart](../blob/images/two.png)
 
 #
 
