@@ -10,7 +10,7 @@ This is a Performance test to showcase the difference between Plan Python 3.6.4,
 
 * PyPy3 Duration: 0.000247955322265625 seconds
 
-![Benchmark Chart One](../images/one.png)
+![Benchmark Chart One](https://github.com/arturosolutions/numba_vs_pypy/blob/images/one.png)
 
 ##### Mandelbrot
 
@@ -20,7 +20,7 @@ This is a Performance test to showcase the difference between Plan Python 3.6.4,
 
 * PyPy3 Duration: 2.660169839859009 seconds
 
-![Benchmark Chart Two](../images/two.png)
+![Benchmark Chart Two](https://github.com/arturosolutions/numba_vs_pypy/blob/images/two.png)
 
 #
 
